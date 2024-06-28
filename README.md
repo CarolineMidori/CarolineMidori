@@ -3,7 +3,7 @@
 
 - Atualmente estou trabalhando em **estratégia clínica**.
 - Estou procurando colaborar em **projetos de ciência de dados e IA na área da saúde**.
-- Entre em contato comigo **carolinemidori@gmail.com**
+- Entre em contato comigo pelo e-mail **carolinemidori@gmail.com**
 - Saiba mais sobre minhas experiências [linkedin.com/in/caroline-midori-b19011175/](linkedin.com/in/caroline-midori-b19011175/)
 
 <h3 align="left">Conecte-se comigo:</h>
